@@ -1,0 +1,13 @@
+{
+  "name": "simple-file-server",
+  "version": "0.1.0",
+  "description": "A simple nodejs and express module. Serving static files.",
+  "main": "script.js",
+  "author": "hermann",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "serve-index": "^1.9.1"
+  }
+}
